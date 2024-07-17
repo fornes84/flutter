@@ -192,11 +192,12 @@ main(){
   
   
   
-  
+  ////////////////////////PENDENT/////////////////////////////////
   
   // ull temps de compilació vs temps d'execució
   //per entendre la paraula reservada "final" i "const"
   
-  
+  // Concepte de wrap--> envolicar un widget sobre un altre widget (molt útil, amb el botó dret es pot fer)
+  // ahir vam fer un exemple amb NO RECORDO.
   
   
